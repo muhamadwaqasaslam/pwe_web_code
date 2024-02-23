@@ -1,0 +1,27 @@
+input[type=text]{
+    width: 90%;
+    margin: 2%;
+    height: 35px;
+}
+
+.div1{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.name{
+    border: none;
+    border-bottom: 2px solid blue;
+}
+.btn{
+    background-color:mediumblue;
+    border-color: mediumblue;
+    color: white;
+    height: 35px;
+    border-radius: 4px;
+}
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    display:block;
+}

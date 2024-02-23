@@ -1,0 +1,30 @@
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    display: block;
+}
+.div1{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+input[type=text]{
+    width: 90%;
+    margin: 1%;
+    height: 30px;
+}
+input[type=password]{
+    width: 90%;
+    margin: 1%;
+    height: 30px;
+}
+input[type=number]{
+    width: 90%;
+    margin: 1%;
+    height: 30px;
+}
+input[type=email]{
+    width: 90%;
+    margin: 1%;
+    height: 30px;
+}

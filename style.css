@@ -1,0 +1,31 @@
+
+.div2{
+    background-color: white;
+    width: 30%;
+    height: 30%;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+h3{
+    text-align: center;
+}
+input[type=button]{
+    margin-left: 10%;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.l1{
+    margin-top: 5%;
+    
+}
+input[type=text]{
+    margin-left: 20%;
+}
+.l2{
+    margin-top: 5%;
+    
+}
+input[type=text]{
+    margin-left: 20%;
+}
